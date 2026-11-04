@@ -11,7 +11,7 @@ public class Mainapp {
         Student2.id = 2026002;
         Student2.major= "syber";
         Student2.gmail = "<wcc<w@gmail.com";
-        		
+        // Task 2
         Student Student3 = new Student();
         Student3.name = "mouiz";
         Student3.id = 2026003;
