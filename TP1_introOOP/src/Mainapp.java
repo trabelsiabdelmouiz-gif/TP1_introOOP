@@ -20,6 +20,7 @@ public class Mainapp {
        
         Student1.displayinfo();
         Student1.major = "atificial entelegente";
+        //Task 03
         Student1.displayinfo();
         Student2.displayinfo();
         Student3.displayinfo();
