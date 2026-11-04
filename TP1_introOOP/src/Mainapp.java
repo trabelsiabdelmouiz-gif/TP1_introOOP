@@ -4,7 +4,7 @@ public class Mainapp {
         Student1.name = "ahmed";
         Student1.id = 2026001;
         Student1.major= "computer engineering";
-        Student1.gmail= "123@gmail.com;
+        Student1.gmail = "qsxqsxxs@gmail.com";
 
         Student Student2 = new Student();
         Student2.name = "sara";
@@ -16,7 +16,7 @@ public class Mainapp {
         Student3.name = "mouiz";
         Student3.id = 2026003;
         Student3.major= "syber";
-
+        Student3.gmail = "dqfqsdcs@gmail.com";
        
         Student1.displayinfo();
         Student1.major = "atificial entelegente";
