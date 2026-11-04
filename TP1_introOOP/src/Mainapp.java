@@ -4,13 +4,14 @@ public class Mainapp {
         Student1.name = "ahmed";
         Student1.id = 2026001;
         Student1.major= "computer engineering";
-        Student1.major= "computer engineering";
+        Student1.gmail= "123@gmail.com;
 
         Student Student2 = new Student();
         Student2.name = "sara";
         Student2.id = 2026002;
         Student2.major= "syber";
-        
+        Student2.gmail = "<wcc<w@gmail.com";
+        		
         Student Student3 = new Student();
         Student3.name = "mouiz";
         Student3.id = 2026003;
