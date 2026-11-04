@@ -12,10 +12,11 @@ public class Student {
 
 
     }
+    
+    public void study(){
+    	 System.out.println("student name: " +name+"is courently studing OOP");
 
-
-
-
+    }
 
 
 }
